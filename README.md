@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-- 🧑‍💻 I'm currently working at [Chulakov Studio](https://chulakov.com/)
-
 <div align="center">
   
 ## 💻 Tech Stack:
